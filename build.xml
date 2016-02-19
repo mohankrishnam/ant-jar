@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Hello" default="clean" basedir=".">
+<project name="Hello" default="jar" basedir=".">
 	<property name="src.dir" value="src"/>
 	<property name="build.dir" value="build/classes"/>
 	<property name="jar.dir" value="jar"/>
