@@ -1,1 +1,1 @@
-sucessfully completed working with svn using command line and started working in tortise svn 
+working in update command
